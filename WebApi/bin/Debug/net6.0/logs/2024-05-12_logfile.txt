@@ -1,0 +1,7 @@
+2024-05-12 13:32:49.8225 INFO {"ModelName":"OnActionExecuting","Contoller":"Books","Action":"GetBooksOptions","Id":null,"CreateAt":"2024-05-12T10:32:49.7950839Z"}
+2024-05-12 13:33:49.3913 INFO {"ModelName":"OnActionExecuting","Contoller":"Books","Action":"GetBooksOptions","Id":null,"CreateAt":"2024-05-12T10:33:49.3913002Z"}
+2024-05-12 13:38:51.8510 INFO {"ModelName":"OnActionExecuting","Contoller":"Books","Action":"GetAllBooks","Id":null,"CreateAt":"2024-05-12T10:38:51.8272712Z"}
+2024-05-12 13:40:20.1548 INFO {"ModelName":"OnActionExecuting","Contoller":"Books","Action":"GetAllBooks","Id":null,"CreateAt":"2024-05-12T10:40:20.1548461Z"}
+2024-05-12 13:40:34.4502 INFO {"ModelName":"OnActionExecuting","Contoller":"Books","Action":"GetAllBooks","Id":null,"CreateAt":"2024-05-12T10:40:34.4502445Z"}
+2024-05-12 13:40:42.3434 INFO {"ModelName":"OnActionExecuting","Contoller":"Books","Action":"GetAllBooks","Id":null,"CreateAt":"2024-05-12T10:40:42.3434497Z"}
+2024-05-12 13:40:50.9676 INFO {"ModelName":"OnActionExecuting","Contoller":"Books","Action":"GetAllBooks","Id":null,"CreateAt":"2024-05-12T10:40:50.9676717Z"}

@@ -1,0 +1,156 @@
+2024-05-08 14:47:43.9552 INFO {"ModelName":"OnActionExecuting","Contoller":"Books","Action":"GetAllBooks","Id":null,"CreateAt":"2024-05-08T11:47:43.92017Z"}
+2024-05-08 14:47:56.3352 INFO {"ModelName":"OnActionExecuting","Contoller":"Books","Action":"GetOneBook","Id":"3","CreateAt":"2024-05-08T11:47:56.3351671Z"}
+2024-05-08 14:48:04.1027 INFO {"ModelName":"OnActionExecuting","Contoller":"Books","Action":"UpdateOneBook","Id":"3","CreateAt":"2024-05-08T11:48:04.1027625Z"}
+2024-05-08 14:49:02.2249 INFO {"ModelName":"OnActionExecuting","Contoller":"Books","Action":"GetAllBooks","Id":null,"CreateAt":"2024-05-08T11:49:02.2049455Z"}
+2024-05-08 14:49:25.8616 INFO {"ModelName":"OnActionExecuting","Contoller":"Books","Action":"UpdateOneBook","Id":"3","CreateAt":"2024-05-08T11:49:25.8615714Z"}
+2024-05-08 14:49:29.9812 INFO {"ModelName":"OnActionExecuting","Contoller":"Books","Action":"GetOneBook","Id":"3","CreateAt":"2024-05-08T11:49:29.9812094Z"}
+2024-05-08 15:57:01.2021 INFO {"ModelName":"OnActionExecuting","Contoller":"Books","Action":"GetAllBooks","Id":null,"CreateAt":"2024-05-08T12:57:01.1805604Z"}
+2024-05-08 15:57:18.1510 INFO {"ModelName":"OnActionExecuting","Contoller":"Books","Action":"GetAllBooks","Id":null,"CreateAt":"2024-05-08T12:57:18.1509742Z"}
+2024-05-08 15:57:33.8898 INFO {"ModelName":"OnActionExecuting","Contoller":"Books","Action":"GetAllBooks","Id":null,"CreateAt":"2024-05-08T12:57:33.8897717Z"}
+2024-05-08 15:58:33.0568 INFO {"ModelName":"OnActionExecuting","Contoller":"Books","Action":"GetAllBooks","Id":null,"CreateAt":"2024-05-08T12:58:33.0567881Z"}
+2024-05-08 15:58:33.2617 ERROR Something went wrong: Microsoft.Data.SqlClient.SqlException (0x80131904): The offset specified in a OFFSET clause may not be negative.
+   at Microsoft.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at Microsoft.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at Microsoft.Data.SqlClient.SqlDataReader.TryHasMoreRows(Boolean& moreRows)
+   at Microsoft.Data.SqlClient.SqlDataReader.TryReadInternal(Boolean setTimeout, Boolean& more)
+   at Microsoft.Data.SqlClient.SqlDataReader.ReadAsyncExecute(Task task, Object state)
+   at Microsoft.Data.SqlClient.SqlDataReader.InvokeAsyncCall[T](AAsyncCallContext`1 context)
+--- End of stack trace from previous location ---
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.AsyncEnumerator.MoveNextAsync()
+   at Microsoft.EntityFrameworkCore.EntityFrameworkQueryableExtensions.ToListAsync[TSource](IQueryable`1 source, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.EntityFrameworkQueryableExtensions.ToListAsync[TSource](IQueryable`1 source, CancellationToken cancellationToken)
+   at Repositories.EFCore.BookRepository.GetAllBooksAsync(BookParameters bookParameters, Boolean trackChanges) in C:\Users\yetun\Desktop\BTK\WebAPI-Kurs\bsStoreApp\Repositories\EFCore\BookRepository.cs:line 27
+   at Services.BookManager.GetAllBooksAsync(BookParameters bookParameters, Boolean trackChanges) in C:\Users\yetun\Desktop\BTK\WebAPI-Kurs\bsStoreApp\Services\BookManager.cs:line 47
+   at Presentation.Controllers.BooksController.GetAllBooksAsync(BookParameters bookParameters) in C:\Users\yetun\Desktop\BTK\WebAPI-Kurs\bsStoreApp\Presentation\Controllers\BooksController.cs:line 32
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.TaskOfIActionResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeInnerFilterAsync>g__Awaited|13_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.ExceptionHandlerMiddleware.<Invoke>g__Awaited|6_0(ExceptionHandlerMiddleware middleware, HttpContext context, Task task)
+ClientConnectionId:fd9c80aa-3ffb-4aba-9246-9627ac8e6979
+Error Number:10742,State:1,Class:15
+2024-05-08 15:58:49.9429 INFO {"ModelName":"OnActionExecuting","Contoller":"Books","Action":"GetAllBooks","Id":null,"CreateAt":"2024-05-08T12:58:49.9429017Z"}
+2024-05-08 15:58:51.0537 INFO {"ModelName":"OnActionExecuting","Contoller":"Books","Action":"GetAllBooks","Id":null,"CreateAt":"2024-05-08T12:58:51.0537544Z"}
+2024-05-08 15:58:51.7318 INFO {"ModelName":"OnActionExecuting","Contoller":"Books","Action":"GetAllBooks","Id":null,"CreateAt":"2024-05-08T12:58:51.7318613Z"}
+2024-05-08 15:58:54.8530 INFO {"ModelName":"OnActionExecuting","Contoller":"Books","Action":"GetAllBooks","Id":null,"CreateAt":"2024-05-08T12:58:54.8529957Z"}
+2024-05-08 15:59:02.8633 INFO {"ModelName":"OnActionExecuting","Contoller":"Books","Action":"GetAllBooks","Id":null,"CreateAt":"2024-05-08T12:59:02.8632964Z"}
+2024-05-08 15:59:28.3770 INFO {"ModelName":"OnActionExecuting","Contoller":"Books","Action":"GetAllBooks","Id":null,"CreateAt":"2024-05-08T12:59:28.3769806Z"}
+2024-05-08 16:32:00.0613 INFO {"ModelName":"OnActionExecuting","Contoller":"Books","Action":"GetAllBooks","Id":null,"CreateAt":"2024-05-08T13:32:00.0373703Z"}
+2024-05-08 16:32:18.6301 INFO {"ModelName":"OnActionExecuting","Contoller":"Books","Action":"GetAllBooks","Id":null,"CreateAt":"2024-05-08T13:32:18.6301434Z"}
+2024-05-08 16:32:23.8933 INFO {"ModelName":"OnActionExecuting","Contoller":"Books","Action":"GetAllBooks","Id":null,"CreateAt":"2024-05-08T13:32:23.8933529Z"}
+2024-05-08 16:32:27.6982 INFO {"ModelName":"OnActionExecuting","Contoller":"Books","Action":"GetAllBooks","Id":null,"CreateAt":"2024-05-08T13:32:27.6981826Z"}
+2024-05-08 16:32:38.9405 INFO {"ModelName":"OnActionExecuting","Contoller":"Books","Action":"GetAllBooks","Id":null,"CreateAt":"2024-05-08T13:32:38.9405263Z"}
+2024-05-08 16:32:51.8180 INFO {"ModelName":"OnActionExecuting","Contoller":"Books","Action":"GetAllBooks","Id":null,"CreateAt":"2024-05-08T13:32:51.8179953Z"}
+2024-05-08 16:32:58.5457 INFO {"ModelName":"OnActionExecuting","Contoller":"Books","Action":"GetAllBooks","Id":null,"CreateAt":"2024-05-08T13:32:58.5457188Z"}
+2024-05-08 16:34:40.8188 INFO {"ModelName":"OnActionExecuting","Contoller":"Books","Action":"CreateOneBook","Id":null,"CreateAt":"2024-05-08T13:34:40.8188241Z"}
+2024-05-08 16:34:41.2202 INFO {"ModelName":"OnActionExecuting","Contoller":"Books","Action":"CreateOneBook","Id":null,"CreateAt":"2024-05-08T13:34:41.2201741Z"}
+2024-05-08 16:34:41.3211 INFO {"ModelName":"OnActionExecuting","Contoller":"Books","Action":"CreateOneBook","Id":null,"CreateAt":"2024-05-08T13:34:41.3211654Z"}
+2024-05-08 16:34:41.4309 INFO {"ModelName":"OnActionExecuting","Contoller":"Books","Action":"CreateOneBook","Id":null,"CreateAt":"2024-05-08T13:34:41.430903Z"}
+2024-05-08 16:34:41.5160 INFO {"ModelName":"OnActionExecuting","Contoller":"Books","Action":"CreateOneBook","Id":null,"CreateAt":"2024-05-08T13:34:41.5160267Z"}
+2024-05-08 16:34:41.5986 INFO {"ModelName":"OnActionExecuting","Contoller":"Books","Action":"CreateOneBook","Id":null,"CreateAt":"2024-05-08T13:34:41.5985743Z"}
+2024-05-08 16:34:41.7090 INFO {"ModelName":"OnActionExecuting","Contoller":"Books","Action":"CreateOneBook","Id":null,"CreateAt":"2024-05-08T13:34:41.7089826Z"}
+2024-05-08 16:34:41.8089 INFO {"ModelName":"OnActionExecuting","Contoller":"Books","Action":"CreateOneBook","Id":null,"CreateAt":"2024-05-08T13:34:41.8088882Z"}
+2024-05-08 16:34:41.9071 INFO {"ModelName":"OnActionExecuting","Contoller":"Books","Action":"CreateOneBook","Id":null,"CreateAt":"2024-05-08T13:34:41.9071754Z"}
+2024-05-08 16:34:41.9976 INFO {"ModelName":"OnActionExecuting","Contoller":"Books","Action":"CreateOneBook","Id":null,"CreateAt":"2024-05-08T13:34:41.9976509Z"}
+2024-05-08 16:34:42.0804 INFO {"ModelName":"OnActionExecuting","Contoller":"Books","Action":"CreateOneBook","Id":null,"CreateAt":"2024-05-08T13:34:42.0804156Z"}
+2024-05-08 16:34:42.1787 INFO {"ModelName":"OnActionExecuting","Contoller":"Books","Action":"CreateOneBook","Id":null,"CreateAt":"2024-05-08T13:34:42.1786987Z"}
+2024-05-08 16:34:42.2795 INFO {"ModelName":"OnActionExecuting","Contoller":"Books","Action":"CreateOneBook","Id":null,"CreateAt":"2024-05-08T13:34:42.2795441Z"}
+2024-05-08 16:34:42.3652 INFO {"ModelName":"OnActionExecuting","Contoller":"Books","Action":"CreateOneBook","Id":null,"CreateAt":"2024-05-08T13:34:42.3652259Z"}
+2024-05-08 16:34:42.4458 INFO {"ModelName":"OnActionExecuting","Contoller":"Books","Action":"CreateOneBook","Id":null,"CreateAt":"2024-05-08T13:34:42.445816Z"}
+2024-05-08 16:34:42.5223 INFO {"ModelName":"OnActionExecuting","Contoller":"Books","Action":"CreateOneBook","Id":null,"CreateAt":"2024-05-08T13:34:42.5223363Z"}
+2024-05-08 16:34:42.5867 INFO {"ModelName":"OnActionExecuting","Contoller":"Books","Action":"CreateOneBook","Id":null,"CreateAt":"2024-05-08T13:34:42.5867039Z"}
+2024-05-08 16:34:42.6519 INFO {"ModelName":"OnActionExecuting","Contoller":"Books","Action":"CreateOneBook","Id":null,"CreateAt":"2024-05-08T13:34:42.6519613Z"}
+2024-05-08 16:34:42.7371 INFO {"ModelName":"OnActionExecuting","Contoller":"Books","Action":"CreateOneBook","Id":null,"CreateAt":"2024-05-08T13:34:42.7371431Z"}
+2024-05-08 16:34:42.8183 INFO {"ModelName":"OnActionExecuting","Contoller":"Books","Action":"CreateOneBook","Id":null,"CreateAt":"2024-05-08T13:34:42.818321Z"}
+2024-05-08 16:34:42.9112 INFO {"ModelName":"OnActionExecuting","Contoller":"Books","Action":"CreateOneBook","Id":null,"CreateAt":"2024-05-08T13:34:42.9112315Z"}
+2024-05-08 16:34:43.0078 INFO {"ModelName":"OnActionExecuting","Contoller":"Books","Action":"CreateOneBook","Id":null,"CreateAt":"2024-05-08T13:34:43.0078535Z"}
+2024-05-08 16:34:43.0819 INFO {"ModelName":"OnActionExecuting","Contoller":"Books","Action":"CreateOneBook","Id":null,"CreateAt":"2024-05-08T13:34:43.0819519Z"}
+2024-05-08 16:34:43.1802 INFO {"ModelName":"OnActionExecuting","Contoller":"Books","Action":"CreateOneBook","Id":null,"CreateAt":"2024-05-08T13:34:43.1802478Z"}
+2024-05-08 16:34:43.2169 INFO {"ModelName":"OnActionExecuting","Contoller":"Books","Action":"CreateOneBook","Id":null,"CreateAt":"2024-05-08T13:34:43.2169311Z"}
+2024-05-08 16:34:43.3102 INFO {"ModelName":"OnActionExecuting","Contoller":"Books","Action":"CreateOneBook","Id":null,"CreateAt":"2024-05-08T13:34:43.3101914Z"}
+2024-05-08 16:34:43.4008 INFO {"ModelName":"OnActionExecuting","Contoller":"Books","Action":"CreateOneBook","Id":null,"CreateAt":"2024-05-08T13:34:43.400787Z"}
+2024-05-08 16:34:43.4938 INFO {"ModelName":"OnActionExecuting","Contoller":"Books","Action":"CreateOneBook","Id":null,"CreateAt":"2024-05-08T13:34:43.4937827Z"}
+2024-05-08 16:34:43.5736 INFO {"ModelName":"OnActionExecuting","Contoller":"Books","Action":"CreateOneBook","Id":null,"CreateAt":"2024-05-08T13:34:43.573608Z"}
+2024-05-08 16:34:43.6849 INFO {"ModelName":"OnActionExecuting","Contoller":"Books","Action":"CreateOneBook","Id":null,"CreateAt":"2024-05-08T13:34:43.6849657Z"}
+2024-05-08 16:34:43.7804 INFO {"ModelName":"OnActionExecuting","Contoller":"Books","Action":"CreateOneBook","Id":null,"CreateAt":"2024-05-08T13:34:43.7804605Z"}
+2024-05-08 16:34:43.8789 INFO {"ModelName":"OnActionExecuting","Contoller":"Books","Action":"CreateOneBook","Id":null,"CreateAt":"2024-05-08T13:34:43.8788965Z"}
+2024-05-08 16:34:43.9364 INFO {"ModelName":"OnActionExecuting","Contoller":"Books","Action":"CreateOneBook","Id":null,"CreateAt":"2024-05-08T13:34:43.9363901Z"}
+2024-05-08 16:34:43.9878 INFO {"ModelName":"OnActionExecuting","Contoller":"Books","Action":"CreateOneBook","Id":null,"CreateAt":"2024-05-08T13:34:43.9877966Z"}
+2024-05-08 16:34:44.0697 INFO {"ModelName":"OnActionExecuting","Contoller":"Books","Action":"CreateOneBook","Id":null,"CreateAt":"2024-05-08T13:34:44.069773Z"}
+2024-05-08 16:34:44.1474 INFO {"ModelName":"OnActionExecuting","Contoller":"Books","Action":"CreateOneBook","Id":null,"CreateAt":"2024-05-08T13:34:44.1474448Z"}
+2024-05-08 16:34:44.2071 INFO {"ModelName":"OnActionExecuting","Contoller":"Books","Action":"CreateOneBook","Id":null,"CreateAt":"2024-05-08T13:34:44.2071337Z"}
+2024-05-08 16:34:44.2433 INFO {"ModelName":"OnActionExecuting","Contoller":"Books","Action":"CreateOneBook","Id":null,"CreateAt":"2024-05-08T13:34:44.24329Z"}
+2024-05-08 16:34:44.3293 INFO {"ModelName":"OnActionExecuting","Contoller":"Books","Action":"CreateOneBook","Id":null,"CreateAt":"2024-05-08T13:34:44.3293554Z"}
+2024-05-08 16:34:44.3837 INFO {"ModelName":"OnActionExecuting","Contoller":"Books","Action":"CreateOneBook","Id":null,"CreateAt":"2024-05-08T13:34:44.3837582Z"}
+2024-05-08 16:34:44.4614 INFO {"ModelName":"OnActionExecuting","Contoller":"Books","Action":"CreateOneBook","Id":null,"CreateAt":"2024-05-08T13:34:44.4614596Z"}
+2024-05-08 16:34:44.5379 INFO {"ModelName":"OnActionExecuting","Contoller":"Books","Action":"CreateOneBook","Id":null,"CreateAt":"2024-05-08T13:34:44.5378882Z"}
+2024-05-08 16:34:44.6046 INFO {"ModelName":"OnActionExecuting","Contoller":"Books","Action":"CreateOneBook","Id":null,"CreateAt":"2024-05-08T13:34:44.6046097Z"}
+2024-05-08 16:34:44.6861 INFO {"ModelName":"OnActionExecuting","Contoller":"Books","Action":"CreateOneBook","Id":null,"CreateAt":"2024-05-08T13:34:44.6861102Z"}
+2024-05-08 16:34:44.7690 INFO {"ModelName":"OnActionExecuting","Contoller":"Books","Action":"CreateOneBook","Id":null,"CreateAt":"2024-05-08T13:34:44.7690634Z"}
+2024-05-08 16:34:44.8532 INFO {"ModelName":"OnActionExecuting","Contoller":"Books","Action":"CreateOneBook","Id":null,"CreateAt":"2024-05-08T13:34:44.8532551Z"}
+2024-05-08 16:34:44.9355 INFO {"ModelName":"OnActionExecuting","Contoller":"Books","Action":"CreateOneBook","Id":null,"CreateAt":"2024-05-08T13:34:44.9355704Z"}
+2024-05-08 16:34:45.0377 INFO {"ModelName":"OnActionExecuting","Contoller":"Books","Action":"CreateOneBook","Id":null,"CreateAt":"2024-05-08T13:34:45.0377292Z"}
+2024-05-08 16:34:45.1457 INFO {"ModelName":"OnActionExecuting","Contoller":"Books","Action":"CreateOneBook","Id":null,"CreateAt":"2024-05-08T13:34:45.1457478Z"}
+2024-05-08 16:34:45.2163 INFO {"ModelName":"OnActionExecuting","Contoller":"Books","Action":"CreateOneBook","Id":null,"CreateAt":"2024-05-08T13:34:45.2162982Z"}
+2024-05-08 16:34:45.3062 INFO {"ModelName":"OnActionExecuting","Contoller":"Books","Action":"CreateOneBook","Id":null,"CreateAt":"2024-05-08T13:34:45.3061819Z"}
+2024-05-08 16:34:45.3755 INFO {"ModelName":"OnActionExecuting","Contoller":"Books","Action":"CreateOneBook","Id":null,"CreateAt":"2024-05-08T13:34:45.3755392Z"}
+2024-05-08 16:34:45.4571 INFO {"ModelName":"OnActionExecuting","Contoller":"Books","Action":"CreateOneBook","Id":null,"CreateAt":"2024-05-08T13:34:45.4571507Z"}
+2024-05-08 16:34:45.5379 INFO {"ModelName":"OnActionExecuting","Contoller":"Books","Action":"CreateOneBook","Id":null,"CreateAt":"2024-05-08T13:34:45.537922Z"}
+2024-05-08 16:34:45.6363 INFO {"ModelName":"OnActionExecuting","Contoller":"Books","Action":"CreateOneBook","Id":null,"CreateAt":"2024-05-08T13:34:45.636299Z"}
+2024-05-08 16:34:45.7355 INFO {"ModelName":"OnActionExecuting","Contoller":"Books","Action":"CreateOneBook","Id":null,"CreateAt":"2024-05-08T13:34:45.7355077Z"}
+2024-05-08 16:34:45.8138 INFO {"ModelName":"OnActionExecuting","Contoller":"Books","Action":"CreateOneBook","Id":null,"CreateAt":"2024-05-08T13:34:45.8138258Z"}
+2024-05-08 16:34:45.9001 INFO {"ModelName":"OnActionExecuting","Contoller":"Books","Action":"CreateOneBook","Id":null,"CreateAt":"2024-05-08T13:34:45.9000795Z"}
+2024-05-08 16:34:45.9903 INFO {"ModelName":"OnActionExecuting","Contoller":"Books","Action":"CreateOneBook","Id":null,"CreateAt":"2024-05-08T13:34:45.990361Z"}
+2024-05-08 16:34:46.0682 INFO {"ModelName":"OnActionExecuting","Contoller":"Books","Action":"CreateOneBook","Id":null,"CreateAt":"2024-05-08T13:34:46.0682396Z"}
+2024-05-08 16:34:46.1468 INFO {"ModelName":"OnActionExecuting","Contoller":"Books","Action":"CreateOneBook","Id":null,"CreateAt":"2024-05-08T13:34:46.1467754Z"}
+2024-05-08 16:34:46.2149 INFO {"ModelName":"OnActionExecuting","Contoller":"Books","Action":"CreateOneBook","Id":null,"CreateAt":"2024-05-08T13:34:46.2149143Z"}
+2024-05-08 16:34:46.2973 INFO {"ModelName":"OnActionExecuting","Contoller":"Books","Action":"CreateOneBook","Id":null,"CreateAt":"2024-05-08T13:34:46.2972991Z"}
+2024-05-08 16:34:46.3885 INFO {"ModelName":"OnActionExecuting","Contoller":"Books","Action":"CreateOneBook","Id":null,"CreateAt":"2024-05-08T13:34:46.3885465Z"}
+2024-05-08 16:34:46.4642 INFO {"ModelName":"OnActionExecuting","Contoller":"Books","Action":"CreateOneBook","Id":null,"CreateAt":"2024-05-08T13:34:46.4642069Z"}
+2024-05-08 16:34:46.5501 INFO {"ModelName":"OnActionExecuting","Contoller":"Books","Action":"CreateOneBook","Id":null,"CreateAt":"2024-05-08T13:34:46.5501613Z"}
+2024-05-08 16:34:46.6271 INFO {"ModelName":"OnActionExecuting","Contoller":"Books","Action":"CreateOneBook","Id":null,"CreateAt":"2024-05-08T13:34:46.6271144Z"}
+2024-05-08 16:34:46.7137 INFO {"ModelName":"OnActionExecuting","Contoller":"Books","Action":"CreateOneBook","Id":null,"CreateAt":"2024-05-08T13:34:46.7137547Z"}
+2024-05-08 16:34:46.7965 INFO {"ModelName":"OnActionExecuting","Contoller":"Books","Action":"CreateOneBook","Id":null,"CreateAt":"2024-05-08T13:34:46.796474Z"}
+2024-05-08 16:34:46.8988 INFO {"ModelName":"OnActionExecuting","Contoller":"Books","Action":"CreateOneBook","Id":null,"CreateAt":"2024-05-08T13:34:46.8987657Z"}
+2024-05-08 16:34:46.9801 INFO {"ModelName":"OnActionExecuting","Contoller":"Books","Action":"CreateOneBook","Id":null,"CreateAt":"2024-05-08T13:34:46.9801496Z"}
+2024-05-08 16:34:47.0569 INFO {"ModelName":"OnActionExecuting","Contoller":"Books","Action":"CreateOneBook","Id":null,"CreateAt":"2024-05-08T13:34:47.0568932Z"}
+2024-05-08 16:34:47.1588 INFO {"ModelName":"OnActionExecuting","Contoller":"Books","Action":"CreateOneBook","Id":null,"CreateAt":"2024-05-08T13:34:47.158833Z"}
+2024-05-08 16:34:47.2372 INFO {"ModelName":"OnActionExecuting","Contoller":"Books","Action":"CreateOneBook","Id":null,"CreateAt":"2024-05-08T13:34:47.237268Z"}
+2024-05-08 16:34:47.3148 INFO {"ModelName":"OnActionExecuting","Contoller":"Books","Action":"CreateOneBook","Id":null,"CreateAt":"2024-05-08T13:34:47.3147858Z"}
+2024-05-08 16:34:47.4134 INFO {"ModelName":"OnActionExecuting","Contoller":"Books","Action":"CreateOneBook","Id":null,"CreateAt":"2024-05-08T13:34:47.4134107Z"}
+2024-05-08 16:34:47.5114 INFO {"ModelName":"OnActionExecuting","Contoller":"Books","Action":"CreateOneBook","Id":null,"CreateAt":"2024-05-08T13:34:47.5114319Z"}
+2024-05-08 16:34:47.6131 INFO {"ModelName":"OnActionExecuting","Contoller":"Books","Action":"CreateOneBook","Id":null,"CreateAt":"2024-05-08T13:34:47.6131479Z"}
+2024-05-08 16:34:47.6941 INFO {"ModelName":"OnActionExecuting","Contoller":"Books","Action":"CreateOneBook","Id":null,"CreateAt":"2024-05-08T13:34:47.6941239Z"}
+2024-05-08 16:34:47.7809 INFO {"ModelName":"OnActionExecuting","Contoller":"Books","Action":"CreateOneBook","Id":null,"CreateAt":"2024-05-08T13:34:47.7809552Z"}
+2024-05-08 16:34:47.8841 INFO {"ModelName":"OnActionExecuting","Contoller":"Books","Action":"CreateOneBook","Id":null,"CreateAt":"2024-05-08T13:34:47.8841129Z"}
+2024-05-08 16:34:47.9640 INFO {"ModelName":"OnActionExecuting","Contoller":"Books","Action":"CreateOneBook","Id":null,"CreateAt":"2024-05-08T13:34:47.9640711Z"}
+2024-05-08 16:34:48.0504 INFO {"ModelName":"OnActionExecuting","Contoller":"Books","Action":"CreateOneBook","Id":null,"CreateAt":"2024-05-08T13:34:48.0504079Z"}
+2024-05-08 16:34:48.1258 INFO {"ModelName":"OnActionExecuting","Contoller":"Books","Action":"CreateOneBook","Id":null,"CreateAt":"2024-05-08T13:34:48.1258739Z"}
+2024-05-08 16:34:48.2125 INFO {"ModelName":"OnActionExecuting","Contoller":"Books","Action":"CreateOneBook","Id":null,"CreateAt":"2024-05-08T13:34:48.2125317Z"}
+2024-05-08 16:34:48.3122 INFO {"ModelName":"OnActionExecuting","Contoller":"Books","Action":"CreateOneBook","Id":null,"CreateAt":"2024-05-08T13:34:48.3122622Z"}
+2024-05-08 16:34:48.3821 INFO {"ModelName":"OnActionExecuting","Contoller":"Books","Action":"CreateOneBook","Id":null,"CreateAt":"2024-05-08T13:34:48.3821196Z"}
+2024-05-08 16:34:48.4627 INFO {"ModelName":"OnActionExecuting","Contoller":"Books","Action":"CreateOneBook","Id":null,"CreateAt":"2024-05-08T13:34:48.4627217Z"}
+2024-05-08 16:34:48.5243 INFO {"ModelName":"OnActionExecuting","Contoller":"Books","Action":"CreateOneBook","Id":null,"CreateAt":"2024-05-08T13:34:48.5243709Z"}
+2024-05-08 16:34:48.6178 INFO {"ModelName":"OnActionExecuting","Contoller":"Books","Action":"CreateOneBook","Id":null,"CreateAt":"2024-05-08T13:34:48.6178133Z"}
+2024-05-08 16:34:48.6951 INFO {"ModelName":"OnActionExecuting","Contoller":"Books","Action":"CreateOneBook","Id":null,"CreateAt":"2024-05-08T13:34:48.6951717Z"}
+2024-05-08 16:34:48.7823 INFO {"ModelName":"OnActionExecuting","Contoller":"Books","Action":"CreateOneBook","Id":null,"CreateAt":"2024-05-08T13:34:48.7823081Z"}
+2024-05-08 16:34:48.8516 INFO {"ModelName":"OnActionExecuting","Contoller":"Books","Action":"CreateOneBook","Id":null,"CreateAt":"2024-05-08T13:34:48.8515972Z"}
+2024-05-08 16:34:48.9447 INFO {"ModelName":"OnActionExecuting","Contoller":"Books","Action":"CreateOneBook","Id":null,"CreateAt":"2024-05-08T13:34:48.9447028Z"}
+2024-05-08 16:34:49.0155 INFO {"ModelName":"OnActionExecuting","Contoller":"Books","Action":"CreateOneBook","Id":null,"CreateAt":"2024-05-08T13:34:49.0155247Z"}
+2024-05-08 16:34:49.0820 INFO {"ModelName":"OnActionExecuting","Contoller":"Books","Action":"CreateOneBook","Id":null,"CreateAt":"2024-05-08T13:34:49.081969Z"}
+2024-05-08 16:34:49.1591 INFO {"ModelName":"OnActionExecuting","Contoller":"Books","Action":"CreateOneBook","Id":null,"CreateAt":"2024-05-08T13:34:49.1590778Z"}
+2024-05-08 16:34:49.2319 INFO {"ModelName":"OnActionExecuting","Contoller":"Books","Action":"CreateOneBook","Id":null,"CreateAt":"2024-05-08T13:34:49.2318931Z"}
+2024-05-08 16:34:49.3185 INFO {"ModelName":"OnActionExecuting","Contoller":"Books","Action":"CreateOneBook","Id":null,"CreateAt":"2024-05-08T13:34:49.3185074Z"}
+2024-05-08 16:34:49.4050 INFO {"ModelName":"OnActionExecuting","Contoller":"Books","Action":"CreateOneBook","Id":null,"CreateAt":"2024-05-08T13:34:49.4050652Z"}
+2024-05-08 16:37:33.1756 INFO {"ModelName":"OnActionExecuting","Contoller":"Books","Action":"GetAllBooks","Id":null,"CreateAt":"2024-05-08T13:37:33.1756022Z"}
+2024-05-08 16:44:54.6577 INFO {"ModelName":"OnActionExecuting","Contoller":"Books","Action":"GetAllBooks","Id":null,"CreateAt":"2024-05-08T13:44:54.6349462Z"}

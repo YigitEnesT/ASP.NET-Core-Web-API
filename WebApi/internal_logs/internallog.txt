@@ -1,0 +1,545 @@
+2024-04-26 21:34:54.6681 Info Message Template Auto Format enabled
+2024-04-26 21:34:54.7702 Info Adding target FileTarget(Name=logfile)
+2024-04-26 21:34:54.8293 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\yetun\Desktop\BTK\WebAPI-Kurs\bsStoreApp\WebApi\nlog.config
+2024-04-26 21:36:01.1596 Info Message Template Auto Format enabled
+2024-04-26 21:36:01.2025 Info Adding target FileTarget(Name=logfile)
+2024-04-26 21:36:01.2194 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\yetun\Desktop\BTK\WebAPI-Kurs\bsStoreApp\WebApi\nlog.config
+2024-04-26 21:39:13.6772 Info AppDomain Shutting down. LogFactory closing...
+2024-04-26 21:39:13.6904 Info LogFactory has been closed.
+2024-04-27 17:09:59.8601 Info Message Template Auto Format enabled
+2024-04-27 17:09:59.9659 Info Adding target FileTarget(Name=logfile)
+2024-04-27 17:09:59.9905 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\yetun\Desktop\BTK\WebAPI-Kurs\bsStoreApp\WebApi\nlog.config
+2024-04-27 17:12:12.3845 Info Message Template Auto Format enabled
+2024-04-27 17:12:12.5208 Info Adding target FileTarget(Name=logfile)
+2024-04-27 17:12:12.5638 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\yetun\Desktop\BTK\WebAPI-Kurs\bsStoreApp\WebApi\nlog.config
+2024-04-27 17:12:37.1767 Info Message Template Auto Format enabled
+2024-04-27 17:12:37.2177 Info Adding target FileTarget(Name=logfile)
+2024-04-27 17:12:37.2363 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\yetun\Desktop\BTK\WebAPI-Kurs\bsStoreApp\WebApi\nlog.config
+2024-04-27 17:23:46.9413 Info Message Template Auto Format enabled
+2024-04-27 17:23:46.9895 Info Adding target FileTarget(Name=logfile)
+2024-04-27 17:23:47.0068 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\yetun\Desktop\BTK\WebAPI-Kurs\bsStoreApp\WebApi\nlog.config
+2024-04-27 17:25:39.5407 Info AppDomain Shutting down. LogFactory closing...
+2024-04-27 17:25:39.5628 Info LogFactory has been closed.
+2024-04-27 17:25:44.0039 Info Message Template Auto Format enabled
+2024-04-27 17:25:44.0518 Info Adding target FileTarget(Name=logfile)
+2024-04-27 17:25:44.0698 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\yetun\Desktop\BTK\WebAPI-Kurs\bsStoreApp\WebApi\nlog.config
+2024-04-27 17:26:39.6934 Info Message Template Auto Format enabled
+2024-04-27 17:26:39.8476 Info Adding target FileTarget(Name=logfile)
+2024-04-27 17:26:39.9323 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\yetun\Desktop\BTK\WebAPI-Kurs\bsStoreApp\WebApi\nlog.config
+2024-04-27 17:45:31.1875 Info Message Template Auto Format enabled
+2024-04-27 17:45:31.2291 Info Adding target FileTarget(Name=logfile)
+2024-04-27 17:45:31.2453 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\yetun\Desktop\BTK\WebAPI-Kurs\bsStoreApp\WebApi\nlog.config
+2024-04-27 17:45:47.4351 Info AppDomain Shutting down. LogFactory closing...
+2024-04-27 17:45:47.4437 Info LogFactory has been closed.
+2024-04-27 17:46:34.0815 Info Message Template Auto Format enabled
+2024-04-27 17:46:34.1233 Info Adding target FileTarget(Name=logfile)
+2024-04-27 17:46:34.1413 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\yetun\Desktop\BTK\WebAPI-Kurs\bsStoreApp\WebApi\nlog.config
+2024-04-27 17:46:56.5384 Info AppDomain Shutting down. LogFactory closing...
+2024-04-27 17:46:56.5384 Info LogFactory has been closed.
+2024-04-27 17:48:56.1517 Info Message Template Auto Format enabled
+2024-04-27 17:48:56.3298 Info Adding target FileTarget(Name=logfile)
+2024-04-27 17:48:56.3731 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\yetun\Desktop\BTK\WebAPI-Kurs\bsStoreApp\WebApi\nlog.config
+2024-04-27 17:50:08.9041 Info Message Template Auto Format enabled
+2024-04-27 17:50:09.0880 Info Adding target FileTarget(Name=logfile)
+2024-04-27 17:50:09.1313 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\yetun\Desktop\BTK\WebAPI-Kurs\bsStoreApp\WebApi\nlog.config
+2024-04-27 17:50:56.0552 Info Message Template Auto Format enabled
+2024-04-27 17:50:56.1018 Info Adding target FileTarget(Name=logfile)
+2024-04-27 17:50:56.1211 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\yetun\Desktop\BTK\WebAPI-Kurs\bsStoreApp\WebApi\nlog.config
+2024-05-03 22:38:39.9925 Info Message Template Auto Format enabled
+2024-05-03 22:38:40.1171 Info Adding target FileTarget(Name=logfile)
+2024-05-03 22:38:40.1529 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\yetun\Desktop\BTK\WebAPI-Kurs\bsStoreApp\WebApi\nlog.config
+2024-05-04 19:50:58.4910 Info Message Template Auto Format enabled
+2024-05-04 19:50:58.5558 Info Adding target FileTarget(Name=logfile)
+2024-05-04 19:50:58.5750 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\yetun\Desktop\BTK\WebAPI-Kurs\bsStoreApp\WebApi\nlog.config
+2024-05-04 20:00:20.9526 Info Message Template Auto Format enabled
+2024-05-04 20:00:21.0036 Info Adding target FileTarget(Name=logfile)
+2024-05-04 20:00:21.0264 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\yetun\Desktop\BTK\WebAPI-Kurs\bsStoreApp\WebApi\nlog.config
+2024-05-04 20:07:24.7343 Info Message Template Auto Format enabled
+2024-05-04 20:07:24.7933 Info Adding target FileTarget(Name=logfile)
+2024-05-04 20:07:24.8214 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\yetun\Desktop\BTK\WebAPI-Kurs\bsStoreApp\WebApi\nlog.config
+2024-05-04 20:20:17.5340 Info Message Template Auto Format enabled
+2024-05-04 20:20:17.5782 Info Adding target FileTarget(Name=logfile)
+2024-05-04 20:20:17.5955 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\yetun\Desktop\BTK\WebAPI-Kurs\bsStoreApp\WebApi\nlog.config
+2024-05-04 20:22:40.5132 Info Message Template Auto Format enabled
+2024-05-04 20:22:40.5548 Info Adding target FileTarget(Name=logfile)
+2024-05-04 20:22:40.5711 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\yetun\Desktop\BTK\WebAPI-Kurs\bsStoreApp\WebApi\nlog.config
+2024-05-04 20:28:37.6190 Info Message Template Auto Format enabled
+2024-05-04 20:28:37.6657 Info Adding target FileTarget(Name=logfile)
+2024-05-04 20:28:37.6826 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\yetun\Desktop\BTK\WebAPI-Kurs\bsStoreApp\WebApi\nlog.config
+2024-05-04 20:48:47.3277 Info Message Template Auto Format enabled
+2024-05-04 20:48:47.3684 Info Adding target FileTarget(Name=logfile)
+2024-05-04 20:48:47.3862 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\yetun\Desktop\BTK\WebAPI-Kurs\bsStoreApp\WebApi\nlog.config
+2024-05-04 21:46:46.1446 Info AppDomain Shutting down. LogFactory closing...
+2024-05-04 21:46:46.1585 Info LogFactory has been closed.
+2024-05-07 16:23:58.5702 Info Message Template Auto Format enabled
+2024-05-07 16:23:58.6441 Info Adding target FileTarget(Name=logfile)
+2024-05-07 16:23:58.6675 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\yetun\Desktop\BTK\WebAPI-Kurs\bsStoreApp\WebApi\nlog.config
+2024-05-07 16:34:07.7631 Info Message Template Auto Format enabled
+2024-05-07 16:34:07.8063 Info Adding target FileTarget(Name=logfile)
+2024-05-07 16:34:07.8227 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\yetun\Desktop\BTK\WebAPI-Kurs\bsStoreApp\WebApi\nlog.config
+2024-05-07 16:37:40.6157 Info Message Template Auto Format enabled
+2024-05-07 16:37:40.6633 Info Adding target FileTarget(Name=logfile)
+2024-05-07 16:37:40.6822 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\yetun\Desktop\BTK\WebAPI-Kurs\bsStoreApp\WebApi\nlog.config
+2024-05-07 16:46:35.4063 Info Message Template Auto Format enabled
+2024-05-07 16:46:35.4534 Info Adding target FileTarget(Name=logfile)
+2024-05-07 16:46:35.4712 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\yetun\Desktop\BTK\WebAPI-Kurs\bsStoreApp\WebApi\nlog.config
+2024-05-07 16:48:25.7361 Info Message Template Auto Format enabled
+2024-05-07 16:48:25.7789 Info Adding target FileTarget(Name=logfile)
+2024-05-07 16:48:25.7980 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\yetun\Desktop\BTK\WebAPI-Kurs\bsStoreApp\WebApi\nlog.config
+2024-05-07 17:31:04.9571 Info Message Template Auto Format enabled
+2024-05-07 17:31:05.0306 Info Adding target FileTarget(Name=logfile)
+2024-05-07 17:31:05.0480 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\yetun\Desktop\BTK\WebAPI-Kurs\bsStoreApp\WebApi\nlog.config
+2024-05-07 21:00:14.5163 Info Message Template Auto Format enabled
+2024-05-07 21:00:14.5662 Info Adding target FileTarget(Name=logfile)
+2024-05-07 21:00:14.5851 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\yetun\Desktop\BTK\WebAPI-Kurs\bsStoreApp\WebApi\nlog.config
+2024-05-08 13:55:45.3693 Info Message Template Auto Format enabled
+2024-05-08 13:55:45.4178 Info Adding target FileTarget(Name=logfile)
+2024-05-08 13:55:45.4362 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\yetun\Desktop\BTK\WebAPI-Kurs\bsStoreApp\WebApi\nlog.config
+2024-05-08 14:03:23.5661 Info Message Template Auto Format enabled
+2024-05-08 14:03:23.6546 Info Adding target FileTarget(Name=logfile)
+2024-05-08 14:03:23.6762 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\yetun\Desktop\BTK\WebAPI-Kurs\bsStoreApp\WebApi\nlog.config
+2024-05-08 14:07:19.2428 Info Message Template Auto Format enabled
+2024-05-08 14:07:19.2838 Info Adding target FileTarget(Name=logfile)
+2024-05-08 14:07:19.3008 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\yetun\Desktop\BTK\WebAPI-Kurs\bsStoreApp\WebApi\nlog.config
+2024-05-08 14:47:32.7912 Info Message Template Auto Format enabled
+2024-05-08 14:47:32.9201 Info Adding target FileTarget(Name=logfile)
+2024-05-08 14:47:32.9615 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\yetun\Desktop\BTK\WebAPI-Kurs\bsStoreApp\WebApi\nlog.config
+2024-05-08 14:48:53.3326 Info Message Template Auto Format enabled
+2024-05-08 14:48:53.4065 Info Adding target FileTarget(Name=logfile)
+2024-05-08 14:48:53.4289 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\yetun\Desktop\BTK\WebAPI-Kurs\bsStoreApp\WebApi\nlog.config
+2024-05-08 15:56:36.4918 Info Message Template Auto Format enabled
+2024-05-08 15:56:36.5931 Info Adding target FileTarget(Name=logfile)
+2024-05-08 15:56:36.6234 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\yetun\Desktop\BTK\WebAPI-Kurs\bsStoreApp\WebApi\nlog.config
+2024-05-08 16:31:53.0856 Info Message Template Auto Format enabled
+2024-05-08 16:31:53.1695 Info Adding target FileTarget(Name=logfile)
+2024-05-08 16:31:53.1927 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\yetun\Desktop\BTK\WebAPI-Kurs\bsStoreApp\WebApi\nlog.config
+2024-05-08 16:44:46.2172 Info Message Template Auto Format enabled
+2024-05-08 16:44:46.3357 Info Adding target FileTarget(Name=logfile)
+2024-05-08 16:44:46.3665 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\yetun\Desktop\BTK\WebAPI-Kurs\bsStoreApp\WebApi\nlog.config
+2024-05-09 16:41:10.6347 Info Message Template Auto Format enabled
+2024-05-09 16:41:10.7544 Info Adding target FileTarget(Name=logfile)
+2024-05-09 16:41:10.7852 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\yetun\Desktop\BTK\WebAPI-Kurs\bsStoreApp\WebApi\nlog.config
+2024-05-09 16:42:21.4382 Info Message Template Auto Format enabled
+2024-05-09 16:42:21.5839 Info Adding target FileTarget(Name=logfile)
+2024-05-09 16:42:21.6276 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\yetun\Desktop\BTK\WebAPI-Kurs\bsStoreApp\WebApi\nlog.config
+2024-05-09 16:54:17.0670 Info Message Template Auto Format enabled
+2024-05-09 16:54:17.2494 Info Adding target FileTarget(Name=logfile)
+2024-05-09 16:54:17.2793 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\yetun\Desktop\BTK\WebAPI-Kurs\bsStoreApp\WebApi\nlog.config
+2024-05-09 17:09:28.4141 Info Message Template Auto Format enabled
+2024-05-09 17:09:28.5623 Info Adding target FileTarget(Name=logfile)
+2024-05-09 17:09:28.6153 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\yetun\Desktop\BTK\WebAPI-Kurs\bsStoreApp\WebApi\nlog.config
+2024-05-10 14:33:26.7983 Info Message Template Auto Format enabled
+2024-05-10 14:33:26.9379 Info Adding target FileTarget(Name=logfile)
+2024-05-10 14:33:26.9746 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\yetun\Desktop\BTK\WebAPI-Kurs\bsStoreApp\WebApi\nlog.config
+2024-05-10 15:10:12.0925 Info Message Template Auto Format enabled
+2024-05-10 15:10:12.1794 Info Adding target FileTarget(Name=logfile)
+2024-05-10 15:10:12.2051 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\yetun\Desktop\BTK\WebAPI-Kurs\bsStoreApp\WebApi\nlog.config
+2024-05-10 15:11:01.1941 Info Message Template Auto Format enabled
+2024-05-10 15:11:01.3108 Info Adding target FileTarget(Name=logfile)
+2024-05-10 15:11:01.3746 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\yetun\Desktop\BTK\WebAPI-Kurs\bsStoreApp\WebApi\nlog.config
+2024-05-10 16:17:06.6246 Info Message Template Auto Format enabled
+2024-05-10 16:17:06.7869 Info Adding target FileTarget(Name=logfile)
+2024-05-10 16:17:06.8427 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\yetun\Desktop\BTK\WebAPI-Kurs\bsStoreApp\WebApi\nlog.config
+2024-05-10 16:18:37.7639 Info Message Template Auto Format enabled
+2024-05-10 16:18:37.8657 Info Adding target FileTarget(Name=logfile)
+2024-05-10 16:18:37.8906 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\yetun\Desktop\BTK\WebAPI-Kurs\bsStoreApp\WebApi\nlog.config
+2024-05-11 16:57:29.4483 Info Message Template Auto Format enabled
+2024-05-11 16:57:29.5519 Info Adding target FileTarget(Name=logfile)
+2024-05-11 16:57:29.5780 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\yetun\Desktop\BTK\WebAPI-Kurs\bsStoreApp\WebApi\nlog.config
+2024-05-11 17:33:13.7235 Info Message Template Auto Format enabled
+2024-05-11 17:33:13.8467 Info Adding target FileTarget(Name=logfile)
+2024-05-11 17:33:13.8901 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\yetun\Desktop\BTK\WebAPI-Kurs\bsStoreApp\WebApi\nlog.config
+2024-05-11 17:39:36.2653 Info Message Template Auto Format enabled
+2024-05-11 17:39:36.3915 Info Adding target FileTarget(Name=logfile)
+2024-05-11 17:39:36.4257 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\yetun\Desktop\BTK\WebAPI-Kurs\bsStoreApp\WebApi\nlog.config
+2024-05-12 13:32:42.9848 Info Message Template Auto Format enabled
+2024-05-12 13:32:43.0946 Info Adding target FileTarget(Name=logfile)
+2024-05-12 13:32:43.1242 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\yetun\Desktop\BTK\WebAPI-Kurs\bsStoreApp\WebApi\nlog.config
+2024-05-12 13:38:20.3711 Info Message Template Auto Format enabled
+2024-05-12 13:38:20.4679 Info Adding target FileTarget(Name=logfile)
+2024-05-12 13:38:20.5219 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\yetun\Desktop\BTK\WebAPI-Kurs\bsStoreApp\WebApi\nlog.config
+2024-05-12 14:13:00.6627 Info Message Template Auto Format enabled
+2024-05-12 14:13:00.7823 Info Adding target FileTarget(Name=logfile)
+2024-05-12 14:13:00.8129 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\yetun\Desktop\BTK\WebAPI-Kurs\bsStoreApp\WebApi\nlog.config
+2024-05-13 15:31:45.5715 Info Message Template Auto Format enabled
+2024-05-13 15:31:45.6808 Info Adding target FileTarget(Name=logfile)
+2024-05-13 15:31:45.7114 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\yetun\Desktop\BTK\WebAPI-Kurs\bsStoreApp\WebApi\nlog.config
+2024-05-13 15:45:30.8767 Info Message Template Auto Format enabled
+2024-05-13 15:45:30.9790 Info Adding target FileTarget(Name=logfile)
+2024-05-13 15:45:31.0132 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\yetun\Desktop\BTK\WebAPI-Kurs\bsStoreApp\WebApi\nlog.config
+2024-05-13 15:46:24.2276 Info Message Template Auto Format enabled
+2024-05-13 15:46:24.3430 Info Adding target FileTarget(Name=logfile)
+2024-05-13 15:46:24.3764 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\yetun\Desktop\BTK\WebAPI-Kurs\bsStoreApp\WebApi\nlog.config
+2024-05-13 15:46:48.0313 Info Message Template Auto Format enabled
+2024-05-13 15:46:48.1444 Info Adding target FileTarget(Name=logfile)
+2024-05-13 15:46:48.2055 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\yetun\Desktop\BTK\WebAPI-Kurs\bsStoreApp\WebApi\nlog.config
+2024-05-13 15:57:55.7967 Info Message Template Auto Format enabled
+2024-05-13 15:57:55.9240 Info Adding target FileTarget(Name=logfile)
+2024-05-13 15:57:55.9506 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\yetun\Desktop\BTK\WebAPI-Kurs\bsStoreApp\WebApi\nlog.config
+2024-05-13 16:14:09.5525 Info Message Template Auto Format enabled
+2024-05-13 16:14:09.6823 Info Adding target FileTarget(Name=logfile)
+2024-05-13 16:14:09.7577 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\yetun\Desktop\BTK\WebAPI-Kurs\bsStoreApp\WebApi\nlog.config
+2024-05-13 16:41:48.9215 Info Message Template Auto Format enabled
+2024-05-13 16:41:49.0204 Info Adding target FileTarget(Name=logfile)
+2024-05-13 16:41:49.0483 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\yetun\Desktop\BTK\WebAPI-Kurs\bsStoreApp\WebApi\nlog.config
+2024-05-13 16:52:02.6418 Info Message Template Auto Format enabled
+2024-05-13 16:52:02.7359 Info Adding target FileTarget(Name=logfile)
+2024-05-13 16:52:02.7612 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\yetun\Desktop\BTK\WebAPI-Kurs\bsStoreApp\WebApi\nlog.config
+2024-05-14 16:51:14.5637 Info Message Template Auto Format enabled
+2024-05-14 16:51:14.6935 Info Adding target FileTarget(Name=logfile)
+2024-05-14 16:51:14.7237 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\yetun\Desktop\BTK\WebAPI-Kurs\bsStoreApp\WebApi\nlog.config
+2024-05-14 16:55:06.1454 Info Message Template Auto Format enabled
+2024-05-14 16:55:06.2446 Info Adding target FileTarget(Name=logfile)
+2024-05-14 16:55:06.2688 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\yetun\Desktop\BTK\WebAPI-Kurs\bsStoreApp\WebApi\nlog.config
+2024-05-14 16:58:32.5609 Info Message Template Auto Format enabled
+2024-05-14 16:58:32.7601 Info Adding target FileTarget(Name=logfile)
+2024-05-14 16:58:32.8137 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\yetun\Desktop\BTK\WebAPI-Kurs\bsStoreApp\WebApi\nlog.config
+2024-05-14 17:01:37.4298 Info AppDomain Shutting down. LogFactory closing...
+2024-05-14 17:01:37.4503 Info LogFactory has been closed.
+2024-05-14 17:03:41.6104 Info Message Template Auto Format enabled
+2024-05-14 17:03:41.7735 Info Adding target FileTarget(Name=logfile)
+2024-05-14 17:03:41.8097 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\yetun\Desktop\BTK\WebAPI-Kurs\bsStoreApp\WebApi\nlog.config
+2024-05-14 17:11:52.3666 Info Message Template Auto Format enabled
+2024-05-14 17:11:52.5139 Info Adding target FileTarget(Name=logfile)
+2024-05-14 17:11:52.5472 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\yetun\Desktop\BTK\WebAPI-Kurs\bsStoreApp\WebApi\nlog.config
+2024-05-14 17:19:01.9998 Info Message Template Auto Format enabled
+2024-05-14 17:19:02.0921 Info Adding target FileTarget(Name=logfile)
+2024-05-14 17:19:02.1179 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\yetun\Desktop\BTK\WebAPI-Kurs\bsStoreApp\WebApi\nlog.config
+2024-05-14 17:20:57.2850 Info Message Template Auto Format enabled
+2024-05-14 17:20:57.4272 Info Adding target FileTarget(Name=logfile)
+2024-05-14 17:20:57.4894 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\yetun\Desktop\BTK\WebAPI-Kurs\bsStoreApp\WebApi\nlog.config
+2024-05-14 17:26:09.0636 Info Message Template Auto Format enabled
+2024-05-14 17:26:09.1607 Info Adding target FileTarget(Name=logfile)
+2024-05-14 17:26:09.1847 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\yetun\Desktop\BTK\WebAPI-Kurs\bsStoreApp\WebApi\nlog.config
+2024-05-14 17:57:00.3888 Info Message Template Auto Format enabled
+2024-05-14 17:57:00.5163 Info Adding target FileTarget(Name=logfile)
+2024-05-14 17:57:00.5496 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\yetun\Desktop\BTK\WebAPI-Kurs\bsStoreApp\WebApi\nlog.config
+2024-05-15 15:59:27.6263 Info Message Template Auto Format enabled
+2024-05-15 15:59:27.7030 Info Adding target FileTarget(Name=logfile)
+2024-05-15 15:59:27.7198 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\yetun\Desktop\BTK\WebAPI-Kurs\bsStoreApp\WebApi\nlog.config
+2024-05-15 15:59:28.6955 Info AppDomain Shutting down. LogFactory closing...
+2024-05-15 15:59:28.6955 Info LogFactory has been closed.
+2024-05-15 16:00:26.9655 Info Message Template Auto Format enabled
+2024-05-15 16:00:27.0163 Info Adding target FileTarget(Name=logfile)
+2024-05-15 16:00:27.0386 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\yetun\Desktop\BTK\WebAPI-Kurs\bsStoreApp\WebApi\nlog.config
+2024-05-15 16:00:29.1266 Info AppDomain Shutting down. LogFactory closing...
+2024-05-15 16:00:29.1352 Info LogFactory has been closed.
+2024-05-15 16:17:58.3636 Info Message Template Auto Format enabled
+2024-05-15 16:17:58.4028 Info Adding target FileTarget(Name=logfile)
+2024-05-15 16:17:58.4197 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\yetun\Desktop\BTK\WebAPI-Kurs\bsStoreApp\WebApi\nlog.config
+2024-05-15 16:17:59.3271 Info AppDomain Shutting down. LogFactory closing...
+2024-05-15 16:17:59.3271 Info LogFactory has been closed.
+2024-05-15 16:19:58.9439 Info Message Template Auto Format enabled
+2024-05-15 16:19:58.9933 Info Adding target FileTarget(Name=logfile)
+2024-05-15 16:19:59.0135 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\yetun\Desktop\BTK\WebAPI-Kurs\bsStoreApp\WebApi\nlog.config
+2024-05-15 16:20:00.7396 Info AppDomain Shutting down. LogFactory closing...
+2024-05-15 16:20:00.7479 Info LogFactory has been closed.
+2024-05-15 17:28:09.4654 Info Message Template Auto Format enabled
+2024-05-15 17:28:09.5739 Info Adding target FileTarget(Name=logfile)
+2024-05-15 17:28:09.6078 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\yetun\Desktop\BTK\WebAPI-Kurs\bsStoreApp\WebApi\nlog.config
+2024-05-15 18:22:01.4693 Info Message Template Auto Format enabled
+2024-05-15 18:22:01.5779 Info Adding target FileTarget(Name=logfile)
+2024-05-15 18:22:01.5994 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\yetun\Desktop\BTK\WebAPI-Kurs\bsStoreApp\WebApi\nlog.config
+2024-05-15 18:25:57.9944 Info Message Template Auto Format enabled
+2024-05-15 18:25:58.1530 Info Adding target FileTarget(Name=logfile)
+2024-05-15 18:25:58.1937 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\yetun\Desktop\BTK\WebAPI-Kurs\bsStoreApp\WebApi\nlog.config
+2024-05-15 18:28:10.7649 Info Message Template Auto Format enabled
+2024-05-15 18:28:10.8611 Info Adding target FileTarget(Name=logfile)
+2024-05-15 18:28:10.8902 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\yetun\Desktop\BTK\WebAPI-Kurs\bsStoreApp\WebApi\nlog.config
+2024-05-15 18:32:03.9349 Info Message Template Auto Format enabled
+2024-05-15 18:32:04.0915 Info Adding target FileTarget(Name=logfile)
+2024-05-15 18:32:04.1380 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\yetun\Desktop\BTK\WebAPI-Kurs\bsStoreApp\WebApi\nlog.config
+2024-05-15 18:34:43.9593 Info Message Template Auto Format enabled
+2024-05-15 18:34:44.0644 Info Adding target FileTarget(Name=logfile)
+2024-05-15 18:34:44.0904 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\yetun\Desktop\BTK\WebAPI-Kurs\bsStoreApp\WebApi\nlog.config
+2024-05-16 12:50:54.0429 Info Message Template Auto Format enabled
+2024-05-16 12:50:54.1696 Info Adding target FileTarget(Name=logfile)
+2024-05-16 12:50:54.2006 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\yetun\Desktop\BTK\WebAPI-Kurs\bsStoreApp\WebApi\nlog.config
+2024-05-16 12:54:41.7694 Info Message Template Auto Format enabled
+2024-05-16 12:54:41.9072 Info Adding target FileTarget(Name=logfile)
+2024-05-16 12:54:41.9452 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\yetun\Desktop\BTK\WebAPI-Kurs\bsStoreApp\WebApi\nlog.config
+2024-05-16 12:57:37.5046 Info Message Template Auto Format enabled
+2024-05-16 12:57:37.6033 Info Adding target FileTarget(Name=logfile)
+2024-05-16 12:57:37.6342 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\yetun\Desktop\BTK\WebAPI-Kurs\bsStoreApp\WebApi\nlog.config
+2024-05-16 14:40:14.1003 Info Message Template Auto Format enabled
+2024-05-16 14:40:14.2736 Info Adding target FileTarget(Name=logfile)
+2024-05-16 14:40:14.3090 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\yetun\Desktop\BTK\WebAPI-Kurs\bsStoreApp\WebApi\nlog.config
+2024-05-16 14:56:18.0006 Info Message Template Auto Format enabled
+2024-05-16 14:56:18.0850 Info Adding target FileTarget(Name=logfile)
+2024-05-16 14:56:18.1210 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\yetun\Desktop\BTK\WebAPI-Kurs\bsStoreApp\WebApi\nlog.config
+2024-05-16 15:08:33.9349 Info Message Template Auto Format enabled
+2024-05-16 15:08:34.1456 Info Adding target FileTarget(Name=logfile)
+2024-05-16 15:08:34.1767 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\yetun\Desktop\BTK\WebAPI-Kurs\bsStoreApp\WebApi\nlog.config
+2024-05-16 15:24:21.7801 Info Message Template Auto Format enabled
+2024-05-16 15:24:21.9061 Info Adding target FileTarget(Name=logfile)
+2024-05-16 15:24:21.9533 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\yetun\Desktop\BTK\WebAPI-Kurs\bsStoreApp\WebApi\nlog.config
+2024-05-16 15:47:31.0537 Info Message Template Auto Format enabled
+2024-05-16 15:47:31.1795 Info Adding target FileTarget(Name=logfile)
+2024-05-16 15:47:31.2135 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\yetun\Desktop\BTK\WebAPI-Kurs\bsStoreApp\WebApi\nlog.config
+2024-05-16 16:04:26.3337 Info Message Template Auto Format enabled
+2024-05-16 16:04:26.3739 Info Adding target FileTarget(Name=logfile)
+2024-05-16 16:04:26.3902 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\yetun\Desktop\BTK\WebAPI-Kurs\bsStoreApp\WebApi\nlog.config
+2024-05-16 16:04:27.4062 Info AppDomain Shutting down. LogFactory closing...
+2024-05-16 16:04:27.4136 Info LogFactory has been closed.
+2024-05-16 16:04:39.3233 Info Message Template Auto Format enabled
+2024-05-16 16:04:39.3627 Info Adding target FileTarget(Name=logfile)
+2024-05-16 16:04:39.3782 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\yetun\Desktop\BTK\WebAPI-Kurs\bsStoreApp\WebApi\nlog.config
+2024-05-16 16:04:41.0483 Info AppDomain Shutting down. LogFactory closing...
+2024-05-16 16:04:41.0563 Info LogFactory has been closed.
+2024-05-16 18:00:02.6935 Info Message Template Auto Format enabled
+2024-05-16 18:00:02.7826 Info Adding target FileTarget(Name=logfile)
+2024-05-16 18:00:02.8129 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\yetun\Desktop\BTK\WebAPI-Kurs\bsStoreApp\WebApi\nlog.config
+2024-05-16 18:02:39.8072 Info Message Template Auto Format enabled
+2024-05-16 18:02:39.9916 Info Adding target FileTarget(Name=logfile)
+2024-05-16 18:02:40.0420 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\yetun\Desktop\BTK\WebAPI-Kurs\bsStoreApp\WebApi\nlog.config
+2024-05-16 18:41:23.6503 Info Message Template Auto Format enabled
+2024-05-16 18:41:23.7351 Info Adding target FileTarget(Name=logfile)
+2024-05-16 18:41:23.7689 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\yetun\Desktop\BTK\WebAPI-Kurs\bsStoreApp\WebApi\nlog.config
+2024-05-16 18:49:19.3160 Info Message Template Auto Format enabled
+2024-05-16 18:49:19.3958 Info Adding target FileTarget(Name=logfile)
+2024-05-16 18:49:19.4233 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\yetun\Desktop\BTK\WebAPI-Kurs\bsStoreApp\WebApi\nlog.config
+2024-05-16 18:54:25.7130 Info Message Template Auto Format enabled
+2024-05-16 18:54:25.7947 Info Adding target FileTarget(Name=logfile)
+2024-05-16 18:54:25.8217 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\yetun\Desktop\BTK\WebAPI-Kurs\bsStoreApp\WebApi\nlog.config
+2024-05-16 19:06:50.8617 Info Message Template Auto Format enabled
+2024-05-16 19:06:50.9571 Info Adding target FileTarget(Name=logfile)
+2024-05-16 19:06:50.9836 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\yetun\Desktop\BTK\WebAPI-Kurs\bsStoreApp\WebApi\nlog.config
+2024-05-16 19:35:36.2626 Info Message Template Auto Format enabled
+2024-05-16 19:35:36.3693 Info Adding target FileTarget(Name=logfile)
+2024-05-16 19:35:36.4010 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\yetun\Desktop\BTK\WebAPI-Kurs\bsStoreApp\WebApi\nlog.config
+2024-05-16 19:40:00.9201 Info Message Template Auto Format enabled
+2024-05-16 19:40:01.0156 Info Adding target FileTarget(Name=logfile)
+2024-05-16 19:40:01.0408 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\yetun\Desktop\BTK\WebAPI-Kurs\bsStoreApp\WebApi\nlog.config
+2024-05-16 19:40:53.1307 Info Message Template Auto Format enabled
+2024-05-16 19:40:53.2120 Info Adding target FileTarget(Name=logfile)
+2024-05-16 19:40:53.2380 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\yetun\Desktop\BTK\WebAPI-Kurs\bsStoreApp\WebApi\nlog.config
+2024-05-16 19:42:33.7768 Info Message Template Auto Format enabled
+2024-05-16 19:42:33.8570 Info Adding target FileTarget(Name=logfile)
+2024-05-16 19:42:33.8873 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\yetun\Desktop\BTK\WebAPI-Kurs\bsStoreApp\WebApi\nlog.config
+2024-05-16 19:45:36.4106 Info Message Template Auto Format enabled
+2024-05-16 19:45:36.4996 Info Adding target FileTarget(Name=logfile)
+2024-05-16 19:45:36.5545 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\yetun\Desktop\BTK\WebAPI-Kurs\bsStoreApp\WebApi\nlog.config
+2024-05-16 19:50:40.1219 Info Message Template Auto Format enabled
+2024-05-16 19:50:40.2687 Info Adding target FileTarget(Name=logfile)
+2024-05-16 19:50:40.3069 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\yetun\Desktop\BTK\WebAPI-Kurs\bsStoreApp\WebApi\nlog.config
+2024-05-16 19:52:10.1075 Info Message Template Auto Format enabled
+2024-05-16 19:52:10.1861 Info Adding target FileTarget(Name=logfile)
+2024-05-16 19:52:10.2106 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\yetun\Desktop\BTK\WebAPI-Kurs\bsStoreApp\WebApi\nlog.config
+2024-05-16 19:55:48.0018 Info Message Template Auto Format enabled
+2024-05-16 19:55:48.1136 Info Adding target FileTarget(Name=logfile)
+2024-05-16 19:55:48.1695 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\yetun\Desktop\BTK\WebAPI-Kurs\bsStoreApp\WebApi\nlog.config
+2024-05-16 19:59:36.0400 Info Message Template Auto Format enabled
+2024-05-16 19:59:36.2172 Info Adding target FileTarget(Name=logfile)
+2024-05-16 19:59:36.2658 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\yetun\Desktop\BTK\WebAPI-Kurs\bsStoreApp\WebApi\nlog.config
+2024-05-16 20:01:49.5778 Info Message Template Auto Format enabled
+2024-05-16 20:01:49.6883 Info Adding target FileTarget(Name=logfile)
+2024-05-16 20:01:49.7303 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\yetun\Desktop\BTK\WebAPI-Kurs\bsStoreApp\WebApi\nlog.config
+2024-05-16 20:04:04.1320 Info Message Template Auto Format enabled
+2024-05-16 20:04:04.2207 Info Adding target FileTarget(Name=logfile)
+2024-05-16 20:04:04.2433 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\yetun\Desktop\BTK\WebAPI-Kurs\bsStoreApp\WebApi\nlog.config
+2024-05-16 20:04:13.5098 Info Message Template Auto Format enabled
+2024-05-16 20:04:13.6285 Info Adding target FileTarget(Name=logfile)
+2024-05-16 20:04:13.6876 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\yetun\Desktop\BTK\WebAPI-Kurs\bsStoreApp\WebApi\nlog.config
+2024-05-16 20:09:18.9172 Info Message Template Auto Format enabled
+2024-05-16 20:09:19.0483 Info Adding target FileTarget(Name=logfile)
+2024-05-16 20:09:19.1089 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\yetun\Desktop\BTK\WebAPI-Kurs\bsStoreApp\WebApi\nlog.config
+2024-05-17 14:25:13.4872 Info Message Template Auto Format enabled
+2024-05-17 14:25:13.6004 Info Adding target FileTarget(Name=logfile)
+2024-05-17 14:25:13.6289 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\yetun\Desktop\BTK\WebAPI-Kurs\bsStoreApp\WebApi\nlog.config
+2024-05-17 14:32:42.6391 Info Message Template Auto Format enabled
+2024-05-17 14:32:42.7642 Info Adding target FileTarget(Name=logfile)
+2024-05-17 14:32:42.7970 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\yetun\Desktop\BTK\WebAPI-Kurs\bsStoreApp\WebApi\nlog.config
+2024-05-17 14:36:48.1968 Info Message Template Auto Format enabled
+2024-05-17 14:36:48.3885 Info Adding target FileTarget(Name=logfile)
+2024-05-17 14:36:48.4312 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\yetun\Desktop\BTK\WebAPI-Kurs\bsStoreApp\WebApi\nlog.config
+2024-05-17 14:40:46.2476 Info Message Template Auto Format enabled
+2024-05-17 14:40:46.3749 Info Adding target FileTarget(Name=logfile)
+2024-05-17 14:40:46.4035 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\yetun\Desktop\BTK\WebAPI-Kurs\bsStoreApp\WebApi\nlog.config
+2024-05-17 16:30:18.9322 Info Message Template Auto Format enabled
+2024-05-17 16:30:18.9905 Info Adding target FileTarget(Name=logfile)
+2024-05-17 16:30:19.0154 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\yetun\Desktop\BTK\WebAPI-Kurs\bsStoreApp\WebApi\nlog.config
+2024-05-17 16:30:20.7119 Info AppDomain Shutting down. LogFactory closing...
+2024-05-17 16:30:20.7256 Info LogFactory has been closed.
+2024-05-17 16:30:29.5359 Info Message Template Auto Format enabled
+2024-05-17 16:30:29.5828 Info Adding target FileTarget(Name=logfile)
+2024-05-17 16:30:29.6013 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\yetun\Desktop\BTK\WebAPI-Kurs\bsStoreApp\WebApi\nlog.config
+2024-05-17 16:30:31.3879 Info AppDomain Shutting down. LogFactory closing...
+2024-05-17 16:30:31.3879 Info LogFactory has been closed.
+2024-05-17 17:40:23.3973 Info Message Template Auto Format enabled
+2024-05-17 17:40:23.5062 Info Adding target FileTarget(Name=logfile)
+2024-05-17 17:40:23.5415 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\yetun\Desktop\BTK\WebAPI-Kurs\bsStoreApp\WebApi\nlog.config
+2024-05-17 17:53:47.6560 Info Message Template Auto Format enabled
+2024-05-17 17:53:47.7596 Info Adding target FileTarget(Name=logfile)
+2024-05-17 17:53:47.8120 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\yetun\Desktop\BTK\WebAPI-Kurs\bsStoreApp\WebApi\nlog.config
+2024-05-17 17:56:09.4778 Info Message Template Auto Format enabled
+2024-05-17 17:56:09.5659 Info Adding target FileTarget(Name=logfile)
+2024-05-17 17:56:09.5978 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\yetun\Desktop\BTK\WebAPI-Kurs\bsStoreApp\WebApi\nlog.config
+2024-05-17 18:01:19.8362 Info Message Template Auto Format enabled
+2024-05-17 18:01:19.9952 Info Adding target FileTarget(Name=logfile)
+2024-05-17 18:01:20.0492 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\yetun\Desktop\BTK\WebAPI-Kurs\bsStoreApp\WebApi\nlog.config
+2024-05-20 16:42:56.1644 Info Message Template Auto Format enabled
+2024-05-20 16:42:56.3212 Info Adding target FileTarget(Name=logfile)
+2024-05-20 16:42:56.3502 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\yetun\Desktop\BTK\WebAPI-Kurs\bsStoreApp\WebApi\nlog.config
+2024-05-20 16:43:57.0255 Info Message Template Auto Format enabled
+2024-05-20 16:43:57.1477 Info Adding target FileTarget(Name=logfile)
+2024-05-20 16:43:57.2175 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\yetun\Desktop\BTK\WebAPI-Kurs\bsStoreApp\WebApi\nlog.config
+2024-05-20 16:53:35.4349 Info Message Template Auto Format enabled
+2024-05-20 16:53:35.4769 Info Adding target FileTarget(Name=logfile)
+2024-05-20 16:53:35.4935 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\yetun\Desktop\BTK\WebAPI-Kurs\bsStoreApp\WebApi\nlog.config
+2024-05-20 16:53:36.5573 Info AppDomain Shutting down. LogFactory closing...
+2024-05-20 16:53:36.5573 Info LogFactory has been closed.
+2024-05-20 16:53:56.1793 Info Message Template Auto Format enabled
+2024-05-20 16:53:56.2163 Info Adding target FileTarget(Name=logfile)
+2024-05-20 16:53:56.2323 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\yetun\Desktop\BTK\WebAPI-Kurs\bsStoreApp\WebApi\nlog.config
+2024-05-20 16:53:57.9028 Info AppDomain Shutting down. LogFactory closing...
+2024-05-20 16:53:57.9106 Info LogFactory has been closed.
+2024-05-20 16:57:51.0576 Info Message Template Auto Format enabled
+2024-05-20 16:57:51.1214 Info Adding target FileTarget(Name=logfile)
+2024-05-20 16:57:51.1384 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\yetun\Desktop\BTK\WebAPI-Kurs\bsStoreApp\WebApi\nlog.config
+2024-05-20 16:57:52.0488 Info AppDomain Shutting down. LogFactory closing...
+2024-05-20 16:57:52.0562 Info LogFactory has been closed.
+2024-05-20 16:57:56.8777 Info Message Template Auto Format enabled
+2024-05-20 16:57:56.9143 Info Adding target FileTarget(Name=logfile)
+2024-05-20 16:57:56.9293 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\yetun\Desktop\BTK\WebAPI-Kurs\bsStoreApp\WebApi\nlog.config
+2024-05-20 16:57:57.9396 Info AppDomain Shutting down. LogFactory closing...
+2024-05-20 16:57:57.9472 Info LogFactory has been closed.
+2024-05-20 17:04:28.6094 Info Message Template Auto Format enabled
+2024-05-20 17:04:28.6478 Info Adding target FileTarget(Name=logfile)
+2024-05-20 17:04:28.6628 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\yetun\Desktop\BTK\WebAPI-Kurs\bsStoreApp\WebApi\nlog.config
+2024-05-20 17:04:29.5696 Info AppDomain Shutting down. LogFactory closing...
+2024-05-20 17:04:29.5696 Info LogFactory has been closed.
+2024-05-20 17:04:38.0854 Info Message Template Auto Format enabled
+2024-05-20 17:04:38.1229 Info Adding target FileTarget(Name=logfile)
+2024-05-20 17:04:38.1381 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\yetun\Desktop\BTK\WebAPI-Kurs\bsStoreApp\WebApi\nlog.config
+2024-05-20 17:04:39.1073 Info AppDomain Shutting down. LogFactory closing...
+2024-05-20 17:04:39.1154 Info LogFactory has been closed.
+2024-05-20 17:09:32.8455 Info Message Template Auto Format enabled
+2024-05-20 17:09:32.8813 Info Adding target FileTarget(Name=logfile)
+2024-05-20 17:09:32.8974 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\yetun\Desktop\BTK\WebAPI-Kurs\bsStoreApp\WebApi\nlog.config
+2024-05-20 17:09:33.8304 Info AppDomain Shutting down. LogFactory closing...
+2024-05-20 17:09:33.8377 Info LogFactory has been closed.
+2024-05-20 17:09:40.3228 Info Message Template Auto Format enabled
+2024-05-20 17:09:40.3611 Info Adding target FileTarget(Name=logfile)
+2024-05-20 17:09:40.3763 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\yetun\Desktop\BTK\WebAPI-Kurs\bsStoreApp\WebApi\nlog.config
+2024-05-20 17:09:41.3923 Info AppDomain Shutting down. LogFactory closing...
+2024-05-20 17:09:41.3997 Info LogFactory has been closed.
+2024-05-20 17:17:44.3493 Info Message Template Auto Format enabled
+2024-05-20 17:17:44.3867 Info Adding target FileTarget(Name=logfile)
+2024-05-20 17:17:44.4021 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\yetun\Desktop\BTK\WebAPI-Kurs\bsStoreApp\WebApi\nlog.config
+2024-05-20 17:17:45.3107 Info AppDomain Shutting down. LogFactory closing...
+2024-05-20 17:17:45.3184 Info LogFactory has been closed.
+2024-05-20 17:17:50.5765 Info Message Template Auto Format enabled
+2024-05-20 17:17:50.6234 Info Adding target FileTarget(Name=logfile)
+2024-05-20 17:17:50.6434 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\yetun\Desktop\BTK\WebAPI-Kurs\bsStoreApp\WebApi\nlog.config
+2024-05-20 17:17:51.5709 Info AppDomain Shutting down. LogFactory closing...
+2024-05-20 17:17:51.5709 Info LogFactory has been closed.
+2024-05-20 17:19:21.1065 Info Message Template Auto Format enabled
+2024-05-20 17:19:21.1438 Info Adding target FileTarget(Name=logfile)
+2024-05-20 17:19:21.1591 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\yetun\Desktop\BTK\WebAPI-Kurs\bsStoreApp\WebApi\nlog.config
+2024-05-20 17:19:21.8692 Info AppDomain Shutting down. LogFactory closing...
+2024-05-20 17:19:21.8692 Info LogFactory has been closed.
+2024-05-20 17:19:30.7837 Info Message Template Auto Format enabled
+2024-05-20 17:19:30.8188 Info Adding target FileTarget(Name=logfile)
+2024-05-20 17:19:30.8344 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\yetun\Desktop\BTK\WebAPI-Kurs\bsStoreApp\WebApi\nlog.config
+2024-05-20 17:19:31.6937 Info AppDomain Shutting down. LogFactory closing...
+2024-05-20 17:19:31.6937 Info LogFactory has been closed.
+2024-05-20 17:19:37.5570 Info Message Template Auto Format enabled
+2024-05-20 17:19:37.6000 Info Adding target FileTarget(Name=logfile)
+2024-05-20 17:19:37.6223 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\yetun\Desktop\BTK\WebAPI-Kurs\bsStoreApp\WebApi\nlog.config
+2024-05-20 17:19:38.6197 Info AppDomain Shutting down. LogFactory closing...
+2024-05-20 17:19:38.6197 Info LogFactory has been closed.
+2024-05-20 17:35:14.8848 Info Message Template Auto Format enabled
+2024-05-20 17:35:14.9495 Info Adding target FileTarget(Name=logfile)
+2024-05-20 17:35:14.9642 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\yetun\Desktop\BTK\WebAPI-Kurs\bsStoreApp\WebApi\nlog.config
+2024-05-20 17:35:15.8414 Info AppDomain Shutting down. LogFactory closing...
+2024-05-20 17:35:15.8496 Info LogFactory has been closed.
+2024-05-20 17:35:27.2950 Info Message Template Auto Format enabled
+2024-05-20 17:35:27.3303 Info Adding target FileTarget(Name=logfile)
+2024-05-20 17:35:27.3303 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\yetun\Desktop\BTK\WebAPI-Kurs\bsStoreApp\WebApi\nlog.config
+2024-05-20 17:35:28.3829 Info AppDomain Shutting down. LogFactory closing...
+2024-05-20 17:35:28.3829 Info LogFactory has been closed.
+2024-05-20 17:38:05.5748 Info Message Template Auto Format enabled
+2024-05-20 17:38:05.6138 Info Adding target FileTarget(Name=logfile)
+2024-05-20 17:38:05.6292 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\yetun\Desktop\BTK\WebAPI-Kurs\bsStoreApp\WebApi\nlog.config
+2024-05-20 17:38:06.4949 Info AppDomain Shutting down. LogFactory closing...
+2024-05-20 17:38:06.5021 Info LogFactory has been closed.
+2024-05-20 17:38:13.0827 Info Message Template Auto Format enabled
+2024-05-20 17:38:13.1192 Info Adding target FileTarget(Name=logfile)
+2024-05-20 17:38:13.1343 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\yetun\Desktop\BTK\WebAPI-Kurs\bsStoreApp\WebApi\nlog.config
+2024-05-20 17:38:14.1189 Info AppDomain Shutting down. LogFactory closing...
+2024-05-20 17:38:14.1189 Info LogFactory has been closed.
+2024-05-20 17:39:48.4901 Info Message Template Auto Format enabled
+2024-05-20 17:39:48.5263 Info Adding target FileTarget(Name=logfile)
+2024-05-20 17:39:48.5417 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\yetun\Desktop\BTK\WebAPI-Kurs\bsStoreApp\WebApi\nlog.config
+2024-05-20 17:39:49.2084 Info AppDomain Shutting down. LogFactory closing...
+2024-05-20 17:39:49.2084 Info LogFactory has been closed.
+2024-05-20 17:39:51.1097 Info Message Template Auto Format enabled
+2024-05-20 17:39:51.1450 Info Adding target FileTarget(Name=logfile)
+2024-05-20 17:39:51.1621 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\yetun\Desktop\BTK\WebAPI-Kurs\bsStoreApp\WebApi\nlog.config
+2024-05-20 17:39:52.1390 Info AppDomain Shutting down. LogFactory closing...
+2024-05-20 17:39:52.1471 Info LogFactory has been closed.
+2024-05-20 17:40:00.4688 Info Message Template Auto Format enabled
+2024-05-20 17:40:00.5067 Info Adding target FileTarget(Name=logfile)
+2024-05-20 17:40:00.5218 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\yetun\Desktop\BTK\WebAPI-Kurs\bsStoreApp\WebApi\nlog.config
+2024-05-20 17:40:01.3441 Info AppDomain Shutting down. LogFactory closing...
+2024-05-20 17:40:01.3517 Info LogFactory has been closed.
+2024-05-20 17:40:06.0184 Info Message Template Auto Format enabled
+2024-05-20 17:40:06.0555 Info Adding target FileTarget(Name=logfile)
+2024-05-20 17:40:06.0705 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\yetun\Desktop\BTK\WebAPI-Kurs\bsStoreApp\WebApi\nlog.config
+2024-05-20 17:40:07.4193 Info AppDomain Shutting down. LogFactory closing...
+2024-05-20 17:40:07.4264 Info LogFactory has been closed.
+2024-05-20 19:51:11.2690 Info Message Template Auto Format enabled
+2024-05-20 19:51:11.3109 Info Adding target FileTarget(Name=logfile)
+2024-05-20 19:51:11.3283 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\yetun\Desktop\BTK\WebAPI-Kurs\bsStoreApp\WebApi\nlog.config
+2024-05-20 19:51:12.4402 Info AppDomain Shutting down. LogFactory closing...
+2024-05-20 19:51:12.4402 Info LogFactory has been closed.
+2024-05-20 19:51:30.9374 Info Message Template Auto Format enabled
+2024-05-20 19:51:30.9741 Info Adding target FileTarget(Name=logfile)
+2024-05-20 19:51:30.9899 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\yetun\Desktop\BTK\WebAPI-Kurs\bsStoreApp\WebApi\nlog.config
+2024-05-20 19:51:32.0506 Info AppDomain Shutting down. LogFactory closing...
+2024-05-20 19:51:32.0506 Info LogFactory has been closed.
+2024-05-20 20:17:05.3888 Info Message Template Auto Format enabled
+2024-05-20 20:17:05.4777 Info Adding target FileTarget(Name=logfile)
+2024-05-20 20:17:05.5053 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\yetun\Desktop\BTK\WebAPI-Kurs\bsStoreApp\WebApi\nlog.config
+2024-05-20 20:32:13.8507 Info Message Template Auto Format enabled
+2024-05-20 20:32:13.9601 Info Adding target FileTarget(Name=logfile)
+2024-05-20 20:32:14.0042 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\yetun\Desktop\BTK\WebAPI-Kurs\bsStoreApp\WebApi\nlog.config
+2024-05-20 20:33:49.4526 Info Message Template Auto Format enabled
+2024-05-20 20:33:49.6125 Info Adding target FileTarget(Name=logfile)
+2024-05-20 20:33:49.6544 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\yetun\Desktop\BTK\WebAPI-Kurs\bsStoreApp\WebApi\nlog.config
+2024-05-20 20:34:09.8340 Info Message Template Auto Format enabled
+2024-05-20 20:34:09.9160 Info Adding target FileTarget(Name=logfile)
+2024-05-20 20:34:09.9511 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\yetun\Desktop\BTK\WebAPI-Kurs\bsStoreApp\WebApi\nlog.config
+2024-05-20 20:34:35.3893 Info Message Template Auto Format enabled
+2024-05-20 20:34:35.5484 Info Adding target FileTarget(Name=logfile)
+2024-05-20 20:34:35.5853 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\yetun\Desktop\BTK\WebAPI-Kurs\bsStoreApp\WebApi\nlog.config
+2024-05-20 20:41:26.1342 Info Message Template Auto Format enabled
+2024-05-20 20:41:26.2428 Info Adding target FileTarget(Name=logfile)
+2024-05-20 20:41:26.2710 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\yetun\Desktop\BTK\WebAPI-Kurs\bsStoreApp\WebApi\nlog.config
+2024-05-20 20:52:33.6077 Info Message Template Auto Format enabled
+2024-05-20 20:52:33.7672 Info Adding target FileTarget(Name=logfile)
+2024-05-20 20:52:33.8492 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\yetun\Desktop\BTK\WebAPI-Kurs\bsStoreApp\WebApi\nlog.config
+2024-05-20 21:11:01.8771 Info Message Template Auto Format enabled
+2024-05-20 21:11:01.9645 Info Adding target FileTarget(Name=logfile)
+2024-05-20 21:11:01.9906 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\yetun\Desktop\BTK\WebAPI-Kurs\bsStoreApp\WebApi\nlog.config
+2024-05-21 15:34:21.8768 Info Message Template Auto Format enabled
+2024-05-21 15:34:21.9407 Info Adding target FileTarget(Name=logfile)
+2024-05-21 15:34:21.9758 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\yetun\Desktop\BTK\WebAPI-Kurs\bsStoreApp\WebApi\nlog.config
+2024-05-21 15:41:48.0238 Info Message Template Auto Format enabled
+2024-05-21 15:41:48.1227 Info Adding target FileTarget(Name=logfile)
+2024-05-21 15:41:48.1745 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\yetun\Desktop\BTK\WebAPI-Kurs\bsStoreApp\WebApi\nlog.config
+2024-05-21 16:07:31.3180 Info Message Template Auto Format enabled
+2024-05-21 16:07:31.3832 Info Adding target FileTarget(Name=logfile)
+2024-05-21 16:07:31.4091 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\yetun\Desktop\BTK\WebAPI-Kurs\bsStoreApp\WebApi\nlog.config
+2024-05-21 16:07:38.4259 Info Message Template Auto Format enabled
+2024-05-21 16:07:38.5754 Info Adding target FileTarget(Name=logfile)
+2024-05-21 16:07:38.6239 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\yetun\Desktop\BTK\WebAPI-Kurs\bsStoreApp\WebApi\nlog.config
+2024-05-21 16:14:22.7086 Info Message Template Auto Format enabled
+2024-05-21 16:14:22.8522 Info Adding target FileTarget(Name=logfile)
+2024-05-21 16:14:22.8982 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\yetun\Desktop\BTK\WebAPI-Kurs\bsStoreApp\WebApi\nlog.config
+2024-05-21 16:26:41.3691 Info Message Template Auto Format enabled
+2024-05-21 16:26:41.5269 Info Adding target FileTarget(Name=logfile)
+2024-05-21 16:26:41.5577 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\yetun\Desktop\BTK\WebAPI-Kurs\bsStoreApp\WebApi\nlog.config
+2024-05-21 16:29:28.3096 Info Message Template Auto Format enabled
+2024-05-21 16:29:28.4883 Info Adding target FileTarget(Name=logfile)
+2024-05-21 16:29:28.5602 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\yetun\Desktop\BTK\WebAPI-Kurs\bsStoreApp\WebApi\nlog.config
